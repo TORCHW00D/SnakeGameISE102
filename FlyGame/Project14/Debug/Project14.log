@@ -1,0 +1,9 @@
+﻿  olcConsoleGameEngineOOP.cpp
+  main.cpp
+  FlyGame.cpp
+C:\Users\T0RCH\source\repos\FlyGame\Project14\FlyGame.cpp(27): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\T0RCH\source\repos\FlyGame\Project14\FlyGame.cpp(89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\T0RCH\source\repos\FlyGame\Project14\FlyGame.cpp(90): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\T0RCH\source\repos\FlyGame\Project14\FlyGame.cpp(137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Project14.vcxproj -> C:\Users\T0RCH\source\repos\FlyGame\Debug\Project14.exe
